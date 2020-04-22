@@ -1,0 +1,5 @@
+name: Nothing
+main: unknown.httpinterceptor.BukkitHttpInterceptorPlugin
+version: ${project.version}
+author: unknown
+load: STARTUP
